@@ -1,0 +1,10 @@
+RESPONDIENDO LAS PREGUNTAS
+
+¿Cuál es la importancia de usar un algoritmo? 
+Los algoritmos son muy importantes a la hora de programar ya que son los pasos exactos para resolver un problema. 
+
+¿Cómo un algoritmo mejora el proceso o servicio de una empresa? 
+Mejora dándole funcionamiento a uso pagina web, para que se mas rápido, para que funcione de acuerdo a lo establecido y no tenga fallas al momento de interactuar con la pagina
+
+¿El algoritmo expuesto en este caso es el único con el que cuenta TuTienda?
+No tienen muchos más en su página web como al ingresar datos, ver cuánto tiempo demoraría de un punto a otro 
